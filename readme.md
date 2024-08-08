@@ -7,7 +7,7 @@ It then parses this commit history looking for file changes. saves all informati
 Clone Repo: 
 >git clone https://github.com/dmille6/sigmaHQ_Monitor.git
 
->python sigmaHQ_Monitor.py will create new config file
+>python sigmaHQ_Monitor.py 
 
  will create new config file
  
