@@ -17,3 +17,7 @@ edit config file in whatever text editor you want
 
 ## Basic Usage:
 > python sigmaHQ_monitor.py
+
+## Example Output
+[![Alt text](./screenshots/screenshot 1.png)](./screenshots/screenshot 1.png)
+[![Alt text](./screenshots/screenshot 2.png)](./screenshots/screenshot 2.png)
