@@ -1,7 +1,7 @@
 # SigmaHQ Monitor:
  - Simple prototype/proof of concept that pulls the commit history from the master repo.
 It then parses this commit history looking for file changes. saves all information in an easily readable JSON file. 
- If openAI API key is added to config file, it summarizes sigma files. (~$0.01-$0.03 a scan)
+ If openAI API key is added to config file, it summarizes sigma files. (~$0.01-$0.03 for a full 30 day scan)
 
 ## Install:
 Clone Repo: 
