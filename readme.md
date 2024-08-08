@@ -19,6 +19,6 @@ edit config file in whatever text editor you want
 > python sigmaHQ_monitor.py
 
 ## Example Output
-![Application Screenshot](screenshots/screenshot1.png)
+![Application Screenshot](screenshots/Screenshot1.png)
 
 
