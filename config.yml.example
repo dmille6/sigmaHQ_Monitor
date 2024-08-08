@@ -1,0 +1,14 @@
+# REQUIRED:
+datastore_filename: "<put json data file path and name here>" # Example:"./dataStore.json"
+download_folder: "<put temp download folder for repo here>" #"./temp_repo"
+repo_url: "https://github.com/SigmaHQ/sigma.git"
+days: 7 #number of days historical data to pull from repo
+
+# TERMINAL COLOR DEFAULTS
+redList: ["delete"]
+yellowList: ["fix", "correct", "update"]
+greenList: ["add","new"]
+
+# NOT REQUIRED BUT RECOMMENDED:
+openAI_API_Key: "<put openAI API Key Here>"    # https://platform.openai.com/settings/profile?tab=api-keys
+openAi_API_OrgID: "<put openAI ORD ID Here>"   # https://platform.openai.com/settings/organization/general
